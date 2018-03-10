@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "podProject"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "这是一个很蠢的库."
   s.description  = "都跟你们说了，这是个很纯的饿库，千万别用！！！"
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/shmchen/podProject.git", :tag => "#{s.version}" }
 
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+s.source_files  = "Classes", "Classes/**/*.{h,m}"
 #s.exclude_files = "Classes/Exclude"
 
 end
