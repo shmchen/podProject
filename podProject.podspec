@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "podProject"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "这是一个很蠢的库."
   s.description  = "都跟你们说了，这是个很纯的饿库，千万别用！！！"
 
